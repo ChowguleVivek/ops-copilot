@@ -137,10 +137,3 @@ ops-copilot/
   `OLLAMA_BASE_URL` in `.env` matches it (default `http://localhost:11434`).
 - First run of any prompt is slow while Ollama loads the model into
   memory — subsequent calls in the same session are much faster.
-
-## Honesty note for résumé use
-
-This was built and should be run and understood before being described
-as a completed project — walk through `agents/orchestrator.py` end to
-end so you can explain the router → tool_use → report flow and the MCP
-tool-calling mechanics in an interview without hesitation.
