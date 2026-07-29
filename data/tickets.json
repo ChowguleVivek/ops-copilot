@@ -1,0 +1,26 @@
+[
+  {
+    "id": "TCK-101",
+    "subject": "Can't log in since this morning",
+    "body": "I've been trying to log in for the past hour and keep getting a server error. Is something down?",
+    "customer": "acme-corp"
+  },
+  {
+    "id": "TCK-102",
+    "subject": "Export button is grey on Safari",
+    "body": "The CSV export button appears disabled on Safari 17. Works fine on Chrome.",
+    "customer": "globex"
+  },
+  {
+    "id": "TCK-103",
+    "subject": "Feature request: dark mode",
+    "body": "Would love a dark mode option for the dashboard.",
+    "customer": "initech"
+  },
+  {
+    "id": "TCK-104",
+    "subject": "Data missing from last week's report",
+    "body": "Our weekly analytics report is missing all data from Tuesday. This is urgent, we present to our board tomorrow.",
+    "customer": "acme-corp"
+  }
+]

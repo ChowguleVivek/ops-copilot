@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Runtime-generated data (keep the sample tickets.json, ignore the rest)
+data/tasks.json
+data/slack_log.json
+data/chroma_store/
+
+# OS
+.DS_Store
+Thumbs.db
